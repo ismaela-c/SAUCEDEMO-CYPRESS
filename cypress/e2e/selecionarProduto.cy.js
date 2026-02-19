@@ -113,7 +113,7 @@ massa.array.forEach(({username, productName, productPrice})=> {
 
     cy.get('[data-test="login-button"]')
         .should('be.visible')
-    
+   
   })
 */
   })
