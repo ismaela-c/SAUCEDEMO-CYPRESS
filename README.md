@@ -1,4 +1,5 @@
 **Testes Web utilizando Cypress**
+
 Projeto desenvolvido durante aulas práticas para aprender automação de testes web utilizando Cypress.
 
 **Conteúdos Praticados**
