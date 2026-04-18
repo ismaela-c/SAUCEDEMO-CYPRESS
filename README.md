@@ -11,3 +11,6 @@ Durante as aulas foram trabalhados os seguintes conceitos:
 - Validação de mensagens e comportamento da aplicação
 - Data-Driven Testing (DDT) para execução de testes com diferentes dados
 - Os testes foram realizados no site: https://www.saucedemo.com/
+
+**Execução**
+  https://www.loom.com/share/ed659bd305ac490f9fe7dbf0fc75bc88
